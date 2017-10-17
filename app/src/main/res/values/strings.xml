@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RK1 Butorin</string>
+    <string name="btn_rectangle_area">Посчитать площадь прямоугольника</string>
+    <string name="btn_sum_of_3">Посчитать сумму трех чисел</string>
+    <string name="btn_circle_perimeter">Посчитать длину окружности</string>
+    <string name="btn_calculate">Посчитать!</string>
+
+    <string name="hint_lengthA">Длина стороны A</string>
+    <string name="hint_lengthB">Длина стороны Б</string>
+    <string name="hint_circle_radius">Радиус окружности</string>
+    <string name="hint_first_number">Первое число</string>
+    <string name="hint_second_number">Второе число</string>
+    <string name="hint_third_number">Третье число</string>
+    <string name="error_less_0">Введите значения больше 0!</string>
+    <string name="error_incorrect_input">Введены некорректные данные!</string>
+
+</resources>
